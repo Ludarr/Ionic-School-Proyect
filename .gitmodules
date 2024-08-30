@@ -1,0 +1,3 @@
+[submodule "PrimerIonicApp"]
+    path = PrimerIonicApp
+    url = https://github.com/Ludarr/Ionic-School-Proyect.git
